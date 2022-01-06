@@ -17,4 +17,4 @@ API: flask
 Модель: logreg
 
 Клонируем репозиторий и создаем образ:
-git clone https://github.com/fimochka-sudo/GB_docker_flask_example.git
+1. git clone https://github.com/kamyninatatyana/ML_in_business/tree/Lesson_09/Lesson_09
